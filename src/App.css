@@ -36,7 +36,7 @@ nav {
   justify-content: space-between;
   align-items: center;
   height: 100%;
-  padding-left: 20px;
+  padding-left: 850px;
   padding-right: 20px;
   max-width: 900px;
   margin: auto;
@@ -259,7 +259,7 @@ header {
 .card {
   align-items: center;
   border-radius: var(--card-border-radius);
-  padding: 40px;
+  padding: 60px;
   background: var(--card-background-color);
   box-shadow: var(--card-shadow);
 }
